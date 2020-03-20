@@ -95,7 +95,7 @@ To sum up, living in a different age or culture would make you a different perso
 
 
 
-The Influence of Ideas
+【The Influence of Ideas】
 
 When one idea is expressed, closely related ideas are simultaneously conveyed, logically and inescapably. In logic, this kinship is expressed by the term sequitur, Latin for “it follows.” (The converse is non sequitur, “it does not follow.”)
 当一个想法被表达时，紧密相关的想法同时（simultaneously）被传达（conveyed），符合逻辑，且不可避免（inescapably）。在逻辑上，这种子属关系（kinship）是用“推论（sequitur）”这个词来表示的，拉丁文是“它跟随的”。（相反（converse）的就是非推论的，它不是跟随的）
@@ -125,17 +125,98 @@ To appreciate the influence of ideas in people’s lives, consider the series of
 为感激想法在人们生活中的影响，为了了解思想在人们生活中的影响，考虑一系列由一个多世纪前在心理学中流行、其影响持续到今天的想法所引发的事件——即"智力（intelligence）是遗传（genetically）决定的，不能增加。
 
 
+
+
 That idea led researchers to devise tests that measure intelligence. The most famous (badly flawed) test determined that the average mental age of white American adults was 13 and that, among immigrants, the average Russian’s mental age was 11.34; the average Italian’s, 11.01; the average Pole’s, 10.74; and the average mental age of “Negroes,” 10.41.
+这种想法使研究人员去发明了衡量（measure）智力的测试。最著名的（有严重缺陷badly flawed）测试确定平均智力年龄，美国白人成年人是13，移民中（among immigrants），俄罗斯人平均智力年龄是11.34岁；意大利人平均11.01岁；波兰人平均10.74岁；而“黑人（Negroes）”的平均心理年龄为10.41岁。
 
 
 
-Educators read the text results and thought, “Attempts to raise students’ in- telligence are pointless,” so they replaced academic curricula with voca- tional curricula and embraced a methodology that taught students facts but not the process of judgment.
+Educators read the text results and thought, “Attempts to raise students’ intelligence are pointless,” so they replaced academic curricula with vocational curricula and embraced a methodology that taught students facts but not the process of judgment.
+教育家们看了测试结果后，认为“企图提升学生们的智力是毫无意义的”，于是他们用职业课程（vocational curricula）取代了学术课程（academic curricula），采用（embrace拥抱、采用）了一种教授学生事实而不是判断过程的方法（methodology）。
+replace A with B（把A替换成B）
 
-*The statement “Belief in oneself is an important element in success” is very different be- cause it specifies that belief is not the only element in success.
 
-Legislatorsreadthetestresultsanddecided “We’vegottodosomethingto keepintellectuallyinferiorpeoplefromenteringthecountry,” sotheyrevised immigration laws to discriminate against southern and central Europeans.
-Eugenicists, who had long been concerned about the welfare of the human species,sawthetestsasagravewarning.Theythought, “Ifintelligencecannot be increased, we must find ways of encouraging reproduction among people of higher intelligence and discouraging it among those of lower intelligence.”
-The eugenicists’ concern inspired a variety of actions. Margaret Sanger’s Planned Parenthood urged the lower classes to practice contraception. Others succeeded in legalizing promoted forced sterilization, notably in Virginia. The U.S. Supreme Court upheld the Virginia law with Justice Oliver Wendell Holmes, Jr. declaring, “Three generations of imbeciles are enough.”9 Over the next five decades 7,500 women, including “unwed mothers, prostitutes, petty criminals and children with disciplinary prob- lems” were sterilized.10 In addition, by 1950 over 150,000 supposedly “defec- tive” children, many relatively normal, were held against their will in institutions. They “endured isolation, overcrowding, forced labor, and phys- ical abuse including lobotomy, electroshock, and surgical sterilization.”11
-Meanwhile,businessleadersreadthetestresultsanddecided, “Weneedpolicies to ensure that workers leave their minds at the factory gate and perform their assigned tasksmindlessly.” Sotheyenactedthosepolicies.Decadeslater,whenEdwards Deming proposed his “quality control” ideas for involving workers in decision making, business leaders remembered those test results and ignored Deming’s advice. (In contrast, the Japanese welcomed Deming’s ideas; as a result, several of their industries surged ahead of their American competition.)
-These are the most obvious effects of hereditarianism but they are certainly not the only ones. Others include discrimination against racial and ethnic minorities and the often-paternalistic policies of government offered in response. (Some historians also link hereditarianism to the genocide that occurred in Nazi Germany.)
+*The statement “Belief in oneself is an important element in success” is very different because it specifies that belief is not the only element in success.
+*“相信自己是成功的一个基本部分（element）”这个声明（statement）有很大的不同，因为它明确规定（specifies）了信念不是成功的唯一因素。
+
+Legislators read the test results and decided “We’ve got to do something to keep intellectually inferior people from entering the country,” so they revised immigration laws to discriminate against southern and central Europeans.
+立法者（legislator）阅读了测试结果，决定“我们必须采取措施，在智力上较差的（inferior）人不得入境”，因此他们修改了（revised）移民法，区别对待（discriminate）南欧和中欧人。
+* keep from（隐瞒、阻止）
+* discriminate是动词“歧视”, discriminate against sb. 就是对某人(群)的歧视
+
+
+
+Eugenicists, who had long been concerned about the welfare of the human species, saw the tests as a grave warning. They thought, “If intelligence cannot be increased, we must find ways of encouraging reproduction among people of higher intelligence and discouraging it among those of lower intelligence.”
+优生学者(eugenicists)长期以来一直关注(cincern 关心、帮助)人类（human species）的福祉（welfare），他们认为这些测试是一个严重的(grave)警告。他们认为，“如果智力不能提高，我们就必须找到办法，鼓励高智力人群的繁殖(reproduction)，并阻止(discourage)低智力人群的繁殖。”
+
+The eugenicists’ concern inspired a variety of actions. Margaret Sanger’s Planned Parenthood urged the lower classes to practice contraception. Others succeeded in legalizing promoted forced sterilization, notably in Virginia. The U.S. 
+优生学者的关心激发了（inspire）各种各样的行动。玛格丽特·桑格的计划生育促使下层阶级（lower classes）实行避孕（contraception）。另外一些人成功地促进（promoted）强制（forced）绝育（sterilization）合法化（legalizing），特别是（notably）在美国的弗吉尼亚州。
+
+Supreme Court upheld the Virginia law with Justice Oliver Wendell Holmes, Jr. declaring, “Three generations of imbeciles are enough.” Over the next five decades 7,500 women, including “unwed mothers, prostitutes, petty criminals and children with disciplinary problems” were sterilized. In addition, by 1950 over 150,000 supposedly “defective” children, many relatively normal, were held against their will in institutions. They “endured isolation, overcrowding, forced labor, and physical abuse including lobotomy, electroshock, and surgical sterilization.”11
+最高法院（Supreme Court）支持（upheld）弗吉尼亚州的法律，法官奥利弗·温德尔·霍姆斯（Oliver Wendell Holmes，Jr.）宣布（declar），“三代低能儿（imbeciles）就够了。”在接下来的50年里，7500名妇女，包括“未婚母亲（unwed mother）、妓女（prostitutes）、小罪犯和有纪律问题的（disciplinary）儿童”被绝育（be sterilized）。此外（in addition），到1950年，超过15万所谓的（supposedly 据说）“有缺陷（defective）”儿童，其中许多是相对（ralatively）正常的儿童，被关押在收容所中，违背了他们的意愿。他们“忍受着（endure）隔离（isolation）、拥挤（overcrowding）、强迫劳动和精神虐待，包括脑叶切开、电击和外科绝育。（surgical 外科）”
+
+
+Meanwhile,business leaders read the test results and decided, “We need policies to ensure that workers leave their minds at the factory gate and perform their assigned tasks mindlessly.” 
+同时，商业领导们读了测试结果后决定，他们需要制定政策以保证工人们在进工厂时就丢掉思想，无须动脑经的（mindlessly）做分配给他们的任务。
+
+So they enacted those policies. Decades later, when Edwards Deming proposed his “quality control” ideas for involving workers in decision making, business leaders remembered those test results and ignored Deming’s advice. (In contrast, the Japanese welcomed Deming’s ideas; as a result, several of their industries surged ahead of their American competition.)
+所以他们制定了（enacted）这些政策。几十年后，当爱德华德明（Edwards Deming）提出让员工参与决策的“质量控制”理念时，商界领袖们记住了这些测试结果，而忽略了德明的建议。（与此相反，日本人欢迎德明的想法；结果，他们的几个行业在美国的竞争中领先。）
+
+
+These are the most obvious effects of hereditarianism but they are certainly not the only ones. Others include discrimination against racial and ethnic minorities and the often paternalistic policies of government offered in response. (Some historians also link hereditarianism to the genocide that occurred in Nazi Germany.)
+这些是遗传主义（hereditarianism）最明显的影响，但肯定不是唯一的影响。其他包括对少数民族和少数民族的歧视，以及政府对此所采取的往往是家长式的政策。（一些历史学家还将世袭主义与纳粹德国发生的种族灭绝联系起来。）
+
+
 The innumerable ideas you have encountered will affect your beliefs and behavior in similar ways––sometimes slightly, at other times profoundly. And this can happen even if you have not consciously embraced the ideas.
+你遇到的无数想法会以类似的方式影响你的信仰和行为——有时轻微，有时深刻。即使你没有自觉地接受这些想法，这也可能发生。
+
+
+
+
+
+【The Influence of Mass Culture】
+
+In centuries past, family and teachers were the dominant, and sometimes the only, influence on children. Today, however, the influence exerted by mass culture (the broadcast media, newspapers, magazines, Internet and popular music) often is greater.
+By age 18 the average teenager has spent 11,000 hours in the classroom and 22,000 hours in front of the television set. He or she has had perhaps 13,000 school lessons yet has watched more than 750,000 commercials. By age thirty-five the same person has had fewer than 20,000 school lessons yet has watched approximately 45,000 hours of television and close to 2 million commercials.
+
+
+What effects does mass culture have on us? To answer, we need only consider the formats and devices commonly used in the media. Modern advertising typically bombards the public with slogans and testimonials by celebrities. This approach is designed to appeal to emotions and create artificial needs for products and services. As a result, many people de- velop the habit of responding emotionally, impulsively, and gullibly to such appeals. They also tend to acquire values very different from those taught in the home and the school. Ads often portray play as more fulfill- ing than work, self-gratification as more desirable than self-control, and materialism as more meaningful than idealism.
+Television programmers use frequent scene shifts and sensory appeals such as car crashes, violence, and sexual encounters to keep au- dience interest from diminishing. Then they add frequent commercial interruptions. This author has analyzed the attention shifts that television viewers are subjected to. In a dramatic program, for example, attention shifts might include camera angle changes;* shifts in story line from one set of characters (or subplot) to another, or from a present scene to a past scene (flashback), or to fantasy; and shifts to “newsbreaks,” to commercial breaks, from one commercial to another, and back to the program. Also in- cluded might be shifts of attention that occur within commercials. I found as many as 78 shifts per hour, excluding the shifts within commercials. The number of shifts within commercials ranged from 6 to 54 and aver- aged approximately 17 per fifteen-second commercial. The total number of attention shifts came out to over 800 per hour, or over 14 per minute.†
+This manipulation has prevented many people from developing a mature attention span. They expect the classroom and the workplace to provide the same constant excitement they get from television. That, of course, is an impossible demand, and when it isn’t met they call their teachers boring and their work unfulfilling. Because such people seldom have the patience to read books that require them to think, many publish- ers have replaced serious books with light fare written by celebrities.
+Even when writers of serious books do manage to become published authors, they are often directed to give short, dramatic answers during promotional interviews, sometimes at the expense of accuracy. A man who coaches writers for talk shows offered one client this advice: “If I ask you whether the budget deficit is a good thing or a bad thing, you should not say, ‘Well, it stimulates the economy but it passes on a burden.’ Youhave to say ‘It’s a great idea!’ or ‘It’s a terrible idea!’ It doesn’t matter which.”12 (Translation: ”Don’t give a balanced answer. Give an oversim- plified one because it will get you noticed.”)
+
+Print journalism is also in the grip of sensationalism. As a newspaper editor observed, “Journalists keep trying to find people who are at 1 or at 9 on a scale of 1 to 10 rather than people at 3 to 7 [the more moderate po- sitions] where most people actually are.”13 Another journalist claims, “News is now becoming more opinion than verified fact. Journalists are slipping into entertainment rather than telling us the verified facts we need to know.”14
+
+Today’s politicians often manipulate people more offensively than do journalists. Instead of expressing their thoughts, some politicians find out what people think and pretend to share their ideas. Many politicians hire people to conduct polls and focus groups to learn what messages will “sell.” They even go so far as to test the impact of certain words—that is why we hear so much about “trust,” “family,” “character,” and “values” these days. Political science professor Larry Sabato says that during the Clinton impeachment trial, the president’s advisors used the term private lives over and over—James Carville used it six times in one four-minute speech—because they knew it could persuade people into believing the president’s lying under oath was of no great consequence.15
+
+
+
+
+
+
+【The “Science” of Manipulation】
+
+Attempts to influence the thoughts and actions of others are no doubt as old as time, but manipulation did not become a science until the early twentieth century, when Ivan Pavlov, a Russian professor of psychology, published his research on conditioned (learned) reflexes. Pavlov found that by ringing a bell when he fed a dog, he could condition the dog to drool at the sound of the bell even when no food was presented. An American psychologist, John Watson, was impressed with Pavlov’s find- ings and applied them to human behavior. In Watson’s most famous ex- periment, he let a baby touch a laboratory rat. At first, the baby was unafraid. But then Watson hit a hammer against metal whenever the baby reached out to touch the rat, and the baby became frightened and cried. In time, the baby cried not only at the sight of the rat but also at the sight of anything furry, such as a stuffed animal.* Watson’s work earned him the title “father of behaviorism.”
+
+
+Less well known is Watson’s application of behaviorist principles to advertising. He spent the latter part of his career working for advertising agencies and soon recognized that the most effective appeal to consumers was not to the mind but to the emotions. He advised advertisers to “tell [the consumer] something that will tie him up with fear, something that will stir up a mild rage, that will call out an affectionate or love response, or strike at a deep psychological or habit need.” His attitude toward the consumer is perhaps best indicated by a statement he made in a presenta- tion to department store executives: “The consumer is to the manufac- turer, the department stores and the advertising agencies, what the green frog is to the physiologist.”16
+
+Watson introduced these strategies in the 1920s and 1930s, the age of newspapers and radio. Since the advent of television, these advertising strategies have grown more sophisticated and effective, so much so that many individuals and groups with political and social agendas have adopted them. The strategies work for a number of reasons, the chief one being people’s conviction that they are impervious to manipulation. This belief is mistaken, as many researchers have demonstrated. For example, Solomon Asch showed that people’s reactions can be altered simply by changing the order of words in a series. He asked study participants to evaluate a person by a series of adjectives. When he put positive adjectives first—”intelligent, industrious, impulsive, critical, stubborn, envious”— the participants gave a positive evaluation. When he reversed the order, with “envious” coming first and “intelligent” last, they gave a negative evaluation.17
+
+Similarly, research has shown that human memory can be manipu- lated. The way a question is asked can change the details in a person’s memory and even make a person remember something that never happened!
+
+
+
+Of course, advertisers and people with political or social agendas are not content to stimulate emotions and/or plant ideas in our minds. They also seek to reinforce those impressions by repeating them again and again. The more people hear a slogan or talking point, the more familiar it becomes. Before long, it becomes indistinguishable from ideas developed through careful thought. Sadly, “the packaging is often done so effec- tively that the viewer, listener, or reader does not make up his own mind at all. Instead, he inserts a packaged opinion into his mind, somewhat like inserting a DVD into a DVD player. He then pushes a button and ‘plays back’ the opinion whenever it seems appropriate to do so. He has performed acceptably without having had to think.”19 Many of the beliefs we hold dearest and defend most vigorously may have been planted in our minds in just this way.
+
+
+
+Many years ago, Harry A. Overstreet noted that “a climate of opin- ion, like a physical climate, is so pervasive a thing that those who live within it and know no other take it for granted.”20 The rise of mass cul- ture and the sophisticated use of manipulation have made this insight more relevant today than ever.
+
+
+
+
+
+
+
